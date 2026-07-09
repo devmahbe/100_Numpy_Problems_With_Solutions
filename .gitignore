@@ -2,5 +2,7 @@
 
 /.vscode
 /Datasets
+Week 3/*.csv
 Week 4/US_Accidents_Jan23-March23.csv
 /.venv
+Week 5/US_Accidents_March23.csv
